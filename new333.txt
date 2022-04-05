@@ -1,2 +1,6 @@
 hishammp
+<<<<<<< HEAD
 mullappally house meenarkuzhi
+=======
+mullapplayyy house
+>>>>>>> feature
